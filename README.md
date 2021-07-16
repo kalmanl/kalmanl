@@ -7,9 +7,9 @@ I like to be as productive as possible, striving to find meaning and satisfactio
 
 I am a geek, I love to learn new technologies and understand how things work under the hood. I enjoy staying up to date on the latest tech news, going to meetups and listening to podcasts to broaden my tech knowledge
 
-Skills:
-Experienced in: TypeScript, JavaScript, Angular, HTML, CSS, VsCode <b>
-Familiar with: C#, C, C++, npm, Linux, AWS, Docker, Elasticsearch <b>
+Skills:<br>
+Experienced in: TypeScript, JavaScript, Angular, HTML, CSS, VsCode <br>
+Familiar with: C#, C, C++, npm, Linux, AWS, Docker, Elasticsearch <br>
 
 <!--
 **kalmanl/kalmanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
